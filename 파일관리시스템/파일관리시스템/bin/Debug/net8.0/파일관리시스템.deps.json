@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "파일관리시스템/1.0.0": {
+        "runtime": {
+          "파일관리시스템.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "파일관리시스템/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

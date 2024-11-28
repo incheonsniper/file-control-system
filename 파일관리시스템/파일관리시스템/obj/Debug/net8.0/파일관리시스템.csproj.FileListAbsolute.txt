@@ -1,0 +1,14 @@
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\obj\Debug\net8.0\파일관리시스템.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\obj\Debug\net8.0\파일관리시스템.AssemblyInfoInputs.cache
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\obj\Debug\net8.0\파일관리시스템.AssemblyInfo.cs
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\obj\Debug\net8.0\파일관리시스템.csproj.CoreCompileInputs.cache
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\bin\Debug\net8.0\파일관리시스템.exe
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\bin\Debug\net8.0\파일관리시스템.deps.json
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\bin\Debug\net8.0\파일관리시스템.runtimeconfig.json
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\bin\Debug\net8.0\파일관리시스템.dll
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\bin\Debug\net8.0\파일관리시스템.pdb
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\obj\Debug\net8.0\파일관리시스템.dll
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\obj\Debug\net8.0\refint\파일관리시스템.dll
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\obj\Debug\net8.0\파일관리시스템.pdb
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\obj\Debug\net8.0\파일관리시스템.genruntimeconfig.cache
+C:\Users\vhdlf\source\repos\파일관리시스템\파일관리시스템\obj\Debug\net8.0\ref\파일관리시스템.dll
